@@ -1,4 +1,4 @@
-//Satoru-Bug-Bot
+//CONFUCIUS-Bug-Bot
 
 //[Code d’appariement](https://replit.com/@aubinbot/Parky-pair-code)
 //[GitHub](https://github.com/SatoruTech/Satoru-Bug-Bot)
@@ -10,23 +10,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "242067712688"
-global.ownername = "Satoru"
-global.ytname = "YT: SatoruTech"
-global.socialm = "GitHub: SatoruTech"
+global.ownernomer = "242055617560"
+global.ownername = "💀ᡃ⃢⃟🇨🇬𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎🇨🇬ᡃ⃢⃟⃢💀)"
+global.ytname = "YT: 💀ᡃ⃢⃟🇨🇬𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎🇨🇬ᡃ⃢⃟⃢💀)"
+global.socialm = "GitHub: 💀ᡃ⃢⃟🇨🇬𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎🇨🇬ᡃ⃢⃟⃢💀)"
 global.location = "Congo-Brazzaville, Brazzaville, null"
 
-global.ownernumber = '242067712688'  //creator number
-global.ownername = 'SatoruTech' //owner name
-global.botname = 'Satoru-Bug-Bot' //name of the bot
+global.ownernumber = '242055617560'  //creator number
+global.ownername = '💀ᡃ⃢⃟🇨🇬𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎🇨🇬ᡃ⃢⃟⃢💀)' //owner name
+global.botname = 𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎-𝘽𝙐𝙂-𝘽𝙊𝙏'' //name of the bot
 
 //sticker details
-global.packname = 'Satoru X Bot'
-global.author = 'SatoruTech'
+global.packname = '𝘾𝙤𝙣𝙛𝙪𝙘𝙞𝙪𝙨 X Bot'
+global.author = '𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎'
 
 //console view/theme
 global.themeemoji = '🩵'
-global.wm = "SatoruTech in©"
+global.wm = "𝘾𝙊𝙉𝙁𝙐𝘾𝙄𝙐𝙎 in©"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vanj84h6rsQmGlOrMz1X'
